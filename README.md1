@@ -1,0 +1,29 @@
+BM ON — Best Movies
+
+BM ON is an Android-first entertainment discovery app in development.
+
+Planned Features
+
+- Movie catalogue and search
+- Movie posters, descriptions, genres and release years
+- Official movie trailers
+- Watchlist and favourites
+- Live football fixtures and match information
+- Links to authorised content providers
+- Premium black-and-gold interface
+
+Technology
+
+- React Native
+- Expo
+- TypeScript
+- Supabase
+- PostgreSQL
+
+Content Rights
+
+BM ON intends to use authorised content providers only. It will not host or distribute movies without permission.
+
+TMDB Attribution
+
+This product uses the TMDB API but is not endorsed or certified by TMDB.
